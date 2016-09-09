@@ -1,0 +1,42 @@
+body {
+  background-color: #ffffff;
+}
+
+a {
+  color: #000000;
+}
+
+a:hover {
+  text-decoration: none;
+  color: #666666;
+}
+
+.navbar-default {
+  background-color: #7BA83A;
+
+}
+
+.navbar-default .navbar-nav > li > a {
+    color: #ffffff;
+}
+
+.navbar {
+  border-radius: 0;
+}
+
+.navbar-brand {
+  font-weight: bold;
+}
+
+.navbar-default .navbar-brand {
+    color: #ffffff;
+}
+
+.btn-primary {
+  background-color: #7BA83A;
+  border-color: #000000;
+}
+.btn-primary:hover {
+  background-color: #000000;
+  border-color: #000000;
+}
